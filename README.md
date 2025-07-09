@@ -29,9 +29,9 @@ This project reads **temperature**, **pressure**, and **altitude** from a **BMP1
 ## 📸 Screenshots
 
 <p align="center">
-    <img src="images/circuit.png" alt="InfluxDB Write" width="30%" />
-  <img src="images/esp32.png" alt="ESP32 + BMP180" width="30%" />
-  <img src="images/bmp.png" alt="Grafana Dashboard" width="30%" />
+    <img src="images/circuit.png" alt="whole circuit" width="30%" />
+  <img src="images/esp32.png" alt="ESP32" width="30%" />
+  <img src="images/bmp180.png" alt="BMP180" width="30%" />
 </p>
 
 
