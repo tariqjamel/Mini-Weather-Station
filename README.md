@@ -24,7 +24,7 @@ This project reads **temperature**, **pressure**, and **altitude** from a **BMP1
   - SCL: GPIO 22
 - **BMP180 Sensor**
   - Connect to ESP32 I2C pins
-- Make sure your ESP32 board is properly configured in the Arduino IDE.
+- Make sure your ESP32 board is properly configured in Arduino IDE.
 
 ## 📸 Screenshots
 
